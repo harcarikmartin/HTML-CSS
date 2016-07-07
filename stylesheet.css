@@ -1,0 +1,113 @@
+/* CSS Document */
+
+body {
+	width: 80vw;
+	min-width: 55em;
+}
+
+header {
+	width: 80vw;
+} 
+ 
+h1 {
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 1em;
+	color: rgb(153,204,255); 
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.left {
+	padding-right: 1%;
+	float: left;
+	text-align: right;
+	vertical-align: top;
+	width: 29%;
+}
+
+.clear {
+	clear: both;
+}
+
+.left h2 {
+	font-family: sans-serif;
+	font-variant: small-caps;
+	font-size: 1.1em;
+	font-weight: normal;
+	color: rgb(110,150,255);
+}
+
+.left h3 {
+	font-family: sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	color: rgb(153,204,255);
+}
+
+.right {
+	float: right;
+	width: 70%;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: black;
+}
+
+.top {
+	padding-top: 2em;
+}
+
+.line {
+	padding-top: 1em;
+}
+
+.right h2 {
+	font-family: sans-serif;
+	font-variant: small-caps;
+	font-size: 1.1em;
+	font-weight: normal;
+	color: rgb(153,204,255);
+}
+
+.right h3 {
+	font-family: sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+	color: rgb(110,150,255);
+}
+
+.right p, .right table {
+	font-family: sans-serif;
+	font-size: 1em;
+	color: black;
+}
+
+.right table {
+	width: 100%;
+	outline-style: solid;
+	outline-width: thin;
+	outline-color: rgb(200, 200, 200);
+}
+
+.right th, .right td  {
+	text-align: center;
+	padding: 0.3em;
+	outline-style: solid;
+	outline-width: thin;
+	outline-color: rgb(200, 200, 200);
+}
+
+dl {
+	font-family: sans-serif;
+	font-size: 0.9em;
+}
+
+dt {
+	font-weight: bold;
+}
+
+
