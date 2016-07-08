@@ -6,16 +6,6 @@ p {
 	padding-top: 0.7rem;
 }
 
-table {
-	padding-top: 1rem;
-	border-style: solid;
-}
-
-td, tr, th {
-	text-align: center;
-	padding: 0.3rem;
-}
-
 h2 {
 	padding-top: 1.5rem;
 	color: rgb(153,204,255);
